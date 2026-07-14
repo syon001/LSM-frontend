@@ -1,0 +1,195 @@
+{
+  "user": {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "student",
+    "avatar": "https://via.placeholder.com/150",
+    "enrolledCourses": [1, 2, 3],
+    "completedCourses": [1],
+    "totalHours": 45,
+    "certificates": 1
+  },
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete React Development",
+      "instructor": "Sarah Johnson",
+      "category": "Web Development",
+      "rating": 4.8,
+      "students": 15420,
+      "price": 89.99,
+      "duration": "32 hours",
+      "level": "Intermediate",
+      "description": "Master React from fundamentals to advanced concepts. Build real-world applications with React, Redux, and modern tooling.",
+      "image": "https://via.placeholder.com/400x250/3498db/ffffff?text=React+Course",
+      "progress": 75,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Introduction to React",
+          "lessons": [
+            {"id": 1, "title": "What is React?", "duration": "15 min", "completed": true},
+            {"id": 2, "title": "Setting Up Development Environment", "duration": "20 min", "completed": true},
+            {"id": 3, "title": "JSX and Components", "duration": "25 min", "completed": true}
+          ]
+        },
+        {
+          "id": 2,
+          "title": "State and Props",
+          "lessons": [
+            {"id": 4, "title": "Understanding State", "duration": "30 min", "completed": true},
+            {"id": 5, "title": "Props and Data Flow", "duration": "25 min", "completed": true},
+            {"id": 6, "title": "Event Handling", "duration": "20 min", "completed": false}
+          ]
+        },
+        {
+          "id": 3,
+          "title": "React Hooks",
+          "lessons": [
+            {"id": 7, "title": "useState Hook", "duration": "20 min", "completed": false},
+            {"id": 8, "title": "useEffect Hook", "duration": "30 min", "completed": false},
+            {"id": 9, "title": "Custom Hooks", "duration": "25 min", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Python for Data Science",
+      "instructor": "Michael Chen",
+      "category": "Data Science",
+      "rating": 4.9,
+      "students": 12350,
+      "price": 94.99,
+      "duration": "28 hours",
+      "level": "Beginner",
+      "description": "Learn Python programming with focus on data analysis, visualization, and machine learning basics.",
+      "image": "https://via.placeholder.com/400x250/2ecc71/ffffff?text=Python+Course",
+      "progress": 45,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Python Basics",
+          "lessons": [
+            {"id": 1, "title": "Variables and Data Types", "duration": "20 min", "completed": true},
+            {"id": 2, "title": "Control Flow", "duration": "25 min", "completed": true},
+            {"id": 3, "title": "Functions", "duration": "30 min", "completed": false}
+          ]
+        },
+        {
+          "id": 2,
+          "title": "NumPy and Pandas",
+          "lessons": [
+            {"id": 4, "title": "NumPy Arrays", "duration": "25 min", "completed": false},
+            {"id": 5, "title": "Pandas DataFrames", "duration": "30 min", "completed": false},
+            {"id": 6, "title": "Data Cleaning", "duration": "20 min", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design Principles",
+      "instructor": "Emily Parker",
+      "category": "Design",
+      "rating": 4.7,
+      "students": 8340,
+      "price": 79.99,
+      "duration": "20 hours",
+      "level": "All Levels",
+      "description": "Learn the fundamentals of UI/UX design including wireframing, prototyping, and user research methods.",
+      "image": "https://via.placeholder.com/400x250/e74c3c/ffffff?text=UI%2FUX+Course",
+      "progress": 20,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Design Fundamentals",
+          "lessons": [
+            {"id": 1, "title": "Color Theory", "duration": "25 min", "completed": true},
+            {"id": 2, "title": "Typography", "duration": "20 min", "completed": false},
+            {"id": 3, "title": "Layout Principles", "duration": "30 min", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "AWS Cloud Computing",
+      "instructor": "David Wilson",
+      "category": "Cloud Computing",
+      "rating": 4.6,
+      "students": 15670,
+      "price": 129.99,
+      "duration": "35 hours",
+      "level": "Advanced",
+      "description": "Comprehensive guide to AWS services including EC2, S3, Lambda, and cloud architecture best practices.",
+      "image": "https://via.placeholder.com/400x250/f39c12/ffffff?text=AWS+Course",
+      "progress": 0,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Introduction to AWS",
+          "lessons": [
+            {"id": 1, "title": "Cloud Computing Basics", "duration": "20 min", "completed": false},
+            {"id": 2, "title": "AWS Global Infrastructure", "duration": "25 min", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "JavaScript Advanced Concepts",
+      "instructor": "Alex Turner",
+      "category": "Web Development",
+      "rating": 4.8,
+      "students": 21300,
+      "price": 74.99,
+      "duration": "25 hours",
+      "level": "Advanced",
+      "description": "Deep dive into advanced JavaScript concepts including closures, prototypes, async/await, and design patterns.",
+      "image": "https://via.placeholder.com/400x250/9b59b6/ffffff?text=JS+Advanced",
+      "progress": 0,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Closures and Scope",
+          "lessons": [
+            {"id": 1, "title": "Lexical Scoping", "duration": "30 min", "completed": false},
+            {"id": 2, "title": "Closures in Practice", "duration": "25 min", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning Fundamentals",
+      "instructor": "Dr. Rachel Kim",
+      "category": "Data Science",
+      "rating": 4.9,
+      "students": 9800,
+      "price": 109.99,
+      "duration": "40 hours",
+      "level": "Intermediate",
+      "description": "Introduction to machine learning algorithms, supervised and unsupervised learning, and model evaluation.",
+      "image": "https://via.placeholder.com/400x250/1abc9c/ffffff?text=ML+Course",
+      "progress": 0,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Introduction to ML",
+          "lessons": [
+            {"id": 1, "title": "What is Machine Learning?", "duration": "20 min", "completed": false},
+            {"id": 2, "title": "Types of Machine Learning", "duration": "25 min", "completed": false}
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalStudents": 85230,
+    "totalCourses": 250,
+    "totalInstructors": 120,
+    "averageRating": 4.7
+  }
+}
