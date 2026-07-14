@@ -1,8 +1,8 @@
 {
   "user": {
     "id": 1,
-    "name": "John Doe",
-    "email": "john.doe@example.com",
+    "name": "Kshantu Syon",
+    "email": "syonkshantu@gmail.com",
     "role": "student",
     "avatar": "https://via.placeholder.com/150",
     "enrolledCourses": [1, 2, 3],
