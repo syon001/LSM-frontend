@@ -34,7 +34,7 @@ function Navbar({ onHamburgerClick, isSidebarOpen }) {
         <div className="user-avatar" title={user.name}>
           <img src="{user.avatar}" alt="Profile image" >
         </div>
-      </div>
+      </div> 
     </nav>
   );
 }
