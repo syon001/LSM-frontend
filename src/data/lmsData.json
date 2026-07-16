@@ -4,7 +4,7 @@
     "name": "Kshantu Syon",
     "email": "syonkshantu@gmail.com",
     "role": "student",
-    "avatar": "https://via.placeholder.com/150",
+    "avatar": "https://img.magnific.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?t=st=1784195397~exp=1784198997~hmac=5ef83d1ab1ba5042f36ced7e6dcf914ca7852385ab11a083737ddc945a2d1df2&w=1480",
     "enrolledCourses": [1, 2, 3],
     "completedCourses": [1],
     "totalHours": 45,
@@ -65,7 +65,7 @@
       "duration": "28 hours",
       "level": "Beginner",
       "description": "Learn Python programming with focus on data analysis, visualization, and machine learning basics.",
-      "image": "https://via.placeholder.com/400x250/2ecc71/ffffff?text=Python+Course",
+      "image": "https://images.ctfassets.net/aq13lwl6616q/2wqtcZLn5BirJ42EDfoair/95be1804195bb47acb392cec54eb551b/Complete_Python_Developer_Zero_to_Mastery.jpg?w=1200&h=676&q=50&fm=webp&bg=transparent",
       "progress": 45,
       "modules": [
         {
@@ -99,7 +99,7 @@
       "duration": "20 hours",
       "level": "All Levels",
       "description": "Learn the fundamentals of UI/UX design including wireframing, prototyping, and user research methods.",
-      "image": "https://via.placeholder.com/400x250/e74c3c/ffffff?text=UI%2FUX+Course",
+      "image": "https://images.ctfassets.net/aq13lwl6616q/75XmCBS35kqsky2S2mtuoP/1f6b6aa94f921f14a833459d5ac8e82e/image.png?w=600&h=337&q=50&fm=webp&bg=transparent",
       "progress": 20,
       "modules": [
         {
@@ -124,7 +124,7 @@
       "duration": "35 hours",
       "level": "Advanced",
       "description": "Comprehensive guide to AWS services including EC2, S3, Lambda, and cloud architecture best practices.",
-      "image": "https://via.placeholder.com/400x250/f39c12/ffffff?text=AWS+Course",
+      "image": "https://images.ctfassets.net/aq13lwl6616q/1aSi4iO8n93Acgn95yodTY/a2d029c2e3b0ffd6ac70ef8a68f43ec8/AWS_Thumbnail_-_Academy_1.png?w=1200&h=676&q=50&fm=webp&bg=transparent",
       "progress": 0,
       "modules": [
         {
@@ -148,7 +148,7 @@
       "duration": "25 hours",
       "level": "Advanced",
       "description": "Deep dive into advanced JavaScript concepts including closures, prototypes, async/await, and design patterns.",
-      "image": "https://via.placeholder.com/400x250/9b59b6/ffffff?text=JS+Advanced",
+      "image": "https://images.ctfassets.net/aq13lwl6616q/5Vsjisy7BEI69JhQoonaZh/7712f3b736be815a1f1ed7ad867ac52b/Complete_Web_Developer_Zero_to_Mastery.png?w=1200&h=674&q=50&fm=webp&bg=transparent",
       "progress": 0,
       "modules": [
         {
@@ -172,7 +172,7 @@
       "duration": "40 hours",
       "level": "Intermediate",
       "description": "Introduction to machine learning algorithms, supervised and unsupervised learning, and model evaluation.",
-      "image": "https://via.placeholder.com/400x250/1abc9c/ffffff?text=ML+Course",
+      "image": "https://images.ctfassets.net/aq13lwl6616q/6bolgTblguVmPNCuPtcPA0/373f941673f1a0e8cd70aaac34e7d5fe/MLDS_Cover_Photo-.png?w=600&h=337&q=50&fm=webp&bg=transparent",
       "progress": 0,
       "modules": [
         {
