@@ -31,9 +31,9 @@ function Navbar({ onHamburgerClick, isSidebarOpen }) {
           <span className="notification-badge">3</span>
         </div>
         
-        <div className="user-avatar" title={user.name}>
+        {/* <div className="user-avatar" title={user.name}>
           {user.name.charAt(0)}
-        </div>
+        </div> */}
 
         <div className="user-avatar" title={user.name}>
           <img
